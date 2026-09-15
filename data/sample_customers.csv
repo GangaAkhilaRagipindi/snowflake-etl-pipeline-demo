@@ -1,0 +1,4 @@
+id,first_name,last_name,email,signup_date,status
+101,john,doe,JOHN.DOE@EXAMPLE.COM,2024-01-15,active
+102,jane,smith,JANE.SMITH@EXAMPLE.COM,2024-02-20,INACTIVE
+103,robert,johnson,ROB.J@EXAMPLE.COM,2024-03-05,active
